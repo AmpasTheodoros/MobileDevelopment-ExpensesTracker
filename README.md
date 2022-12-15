@@ -1,30 +1,40 @@
-Expenses Tracker
-A simple mobile app to track your daily expenses and manage your budget.
+# Expenses Tracker
 
-Features
-Add and categorize your expenses
-See your spending history and statistics
-Set a budget and track your progress
-Supports multiple accounts and currencies
-Installation
-To install the Expenses Tracker app, follow these steps:
+This project is an expenses tracker app that allows users to track and manage their daily expenses.
 
-Clone the repository: git clone https://github.com/AmpasTheodoros/MobileDevelopment-ExpensesTracker.git
-Install the dependencies: npm install
-Build the app: npm run build
-Install the app on your device: npm run install
-Usage
-To use the Expenses Tracker app, follow these steps:
+## Getting Started
 
-Open the app on your device
-Add your expenses by entering the amount, category, and date
-View your expenses history and statistics by navigating to the appropriate sections
-Set a budget and track your progress by going to the "Budget" section
-Contributing
-If you want to contribute to the Expenses Tracker project, please follow these guidelines:
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Check the open issues and open a new issue if necessary
-Fork the repository and make your changes
-Submit a pull request with a clear explanation of your changes
-License
-The Expenses Tracker app is licensed under the MIT License.
+### Prerequisites
+
+- Android Studio
+- A device or emulator running Android 5.0 (Lollipop) or higher
+
+### Installing
+
+1. Clone the repository: `git clone https://github.com/AmpasTheodoros/MobileDevelopment-ExpensesTracker.git`
+2. Open the project in Android Studio
+3. Install any necessary dependencies
+4. Run the app on your device or emulator
+
+## Using the app
+
+- Add new expenses by entering the amount and a description, and selecting a category.
+- View your expenses by date, category, or payment method.
+- Edit or delete existing expenses.
+- Generate reports and charts to see your spending habits and trends.
+
+## Built With
+
+- [Android Studio](https://developer.android.com/studio) - The development environment used
+- [Java](https://www.java.com/en/) - The programming language used
+- [SQLite](https://www.sqlite.org/index.html) - The database management system used
+
+## Author
+
+- [AmpasTheodoros](https://github.com/AmpasTheodoros) - Initial work
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
